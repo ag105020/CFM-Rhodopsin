@@ -1,6 +1,6 @@
 # CFM-Rhodopsin
 
-Preparation:
+Preparation:<br>
 Download all the files and organaise path
 
 To plot Fig 2:
@@ -25,7 +25,7 @@ To plot Fig S2:
 <br>Run R005_49 and R005_47
 
 To plot Fig S3:
-Run R003_22
+<br>Run R003_22
 
 To plot fig S4:
 <br>Run R003_23
