@@ -29,3 +29,5 @@ To plot Fig S3:
 
 To plot fig S4:
 <br>Run R003_23
+
+Dataset used for R2 analsysis is in 07 Data_uploading.csv
