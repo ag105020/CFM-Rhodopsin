@@ -1,7 +1,7 @@
 # CFM-Rhodopsin
 
-Preparation:<br>
-Download all the files and organaise path
+Preparation:
+<br>Download all the files and organaise path
 
 To plot Fig 2:
 <br>Run R005_17 and R005_19
