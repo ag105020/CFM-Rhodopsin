@@ -4,7 +4,7 @@ Preparation:
 <br>Download all the files and organaise path
 
 To plot Fig 2:
-<br>Run R005_17 and R005_19
+<br>Run R003_17 and R003_24
 
 To plot Fig 3: 
 <br>Run R005_17
